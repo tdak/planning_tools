@@ -33,6 +33,9 @@ Here's the list of links for project management best practices
 
 ## Product Management
 [Eliminating the Product Owner Role](https://medium.com/@JoshuaKerievsky/eliminating-the-product-owner-role-be01cabc1f5b)
+[Product Manager: The role & how to master it](https://www.atlassian.com/agile/product-management/product-manager)
+[Product Management Process](https://www.prodpad.com/resources/guides/product-management-process/)
+[5 Steps to Building a Product Management Team](https://www.pragmaticinstitute.com/resources/articles/product/5-steps-to-building-a-great-product-management-organization/)
 
 ## Other Skills
 [6 traits of highly effective project managers](https://www.cio.com/article/2433916/project-management/project-management-six-attributes-of-successful-project-managers.html)
@@ -42,3 +45,9 @@ Here's the list of links for project management best practices
 
 ## Software Tools Lists
 [The 5 best project management tools for startups](https://www.inc.com/jeff-haden/9-project-management-tools-worlds-top-startups-actually-use.html)
+
+## Software Tools - Project Management
+
+## Software Tools - Product Management
+
+## Software Tools - Planning
