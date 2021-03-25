@@ -19,6 +19,7 @@ Here's the list of links for project management best practices
 - [Agile project management: A beginner's guide](https://www.cio.com/article/3156998/agile-development/agile-project-management-a-beginners-guide.html)
 - [Project management 101: Understanding Six Sigma and its business value](https://www.techrepublic.com/article/project-management-101-understanding-six-sigma-and-its-business-value)
 - [How to Get into Project Management](https://www.girlsguidetopm.com/how-to-get-into-project-management/)
+- [Planning is not guessing, planning is training](https://teamhq.app/blog/productivity/13-planning-is-not-guessing-planning-is-training)
 
 ## Scrum and Agile
 - [How to Make Sure Agile Teams Can Work Together](https://hbr.org/2018/05/how-to-make-sure-agile-teams-can-work-together)
